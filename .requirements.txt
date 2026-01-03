@@ -1,0 +1,19 @@
+# Core
+streamlit
+python-dotenv
+
+# LangChain
+langchain
+langchain-openai
+langchain-community
+
+# Google API
+googlemaps
+requests
+
+# Data Processing
+pydantic
+
+# UI Enhancements
+streamlit-extras
+streamlit-lottie
